@@ -1,0 +1,26 @@
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.csproj.AssemblyReference.cache
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.AssemblyInfoInputs.cache
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.AssemblyInfo.cs
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.csproj.CoreCompileInputs.cache
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.RazorAssemblyInfo.cache
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.RazorAssemblyInfo.cs
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\appsettings.json
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\Gestion de Embarcaciones.staticwebassets.runtime.json
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\Gestion de Embarcaciones.exe
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\Gestion de Embarcaciones.deps.json
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\Gestion de Embarcaciones.runtimeconfig.json
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\Gestion de Embarcaciones.dll
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\ref\Gestion de Embarcaciones.dll
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\bin\Debug\net6.0\Gestion de Embarcaciones.pdb
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\scopedcss\bundle\Gestion de Embarcaciones.styles.css
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\scopedcss\projectbundle\Gestion de Embarcaciones.bundle.scp.css
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.dll
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\ref\Gestion de Embarcaciones.dll
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.pdb
+C:\Users\well-\source\repos\Embarcaciones\Gestion de Embarcaciones\Gestion de Embarcaciones\obj\Debug\net6.0\Gestion de Embarcaciones.genruntimeconfig.cache

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Propietario>
+
+    @{
+    ViewBag.Title = "Lista de Propietarios";
+       
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    }
+    <p>
+      @Html.ActionLink("Nuevo Propietario", "Create", "Propietario", new { @class = "btn btn-success" })
+    </p>
+
+    <table class="table table-striped">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Cedula_Pasaporte)</th>
+
+            <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+
+            <th>@Html.DisplayNameFor(model => model.Apellidos)</th>
+
+            <th>@Html.DisplayNameFor(model => model.Direccion)</th>
+
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+
+            <th>@Html.DisplayNameFor(model => model.Telefono)</th>
+
+            <th>@Html.DisplayNameFor(model => model.Celular)</th>
+
+            <th>@Html.DisplayNameFor(model => model.IdPais)</th>
+
+            <th>@Html.DisplayNameFor(model => model.IdCiudad)</th>
+
+            <th>@Html.DisplayNameFor(model => model.Zip)</th>
+
+        </tr>
+
+        @foreach(var item in Model){
+            <tr>
+                <td>@Html.DisplayFor(itemModel => item.Cedula_Pasaporte)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.Nombre)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.Apellidos)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.Direccion)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.Email)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.Telefono)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.Celular)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.IdPais)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.IdCiudad)</td>
+
+                <td>@Html.DisplayFor(itemModel => item.Zip)</td>
+
+            </tr>
+        }
+
+    </table>
